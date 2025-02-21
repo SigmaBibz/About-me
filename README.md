@@ -8,3 +8,29 @@ I’m also diving deeper into the tech world, learning Python, R, and data visua
 When I’m not working on nutrition and tech projects, I enjoy volunteering my time to contribute to open-source initiatives and exploring innovative ways to integrate AI and cloud solutions into public health. I’m a strong advocate for data-driven decision-making and believe in the power of technology to create meaningful, scalable impact.  
 
 I’m always excited to collaborate with like-minded individuals and organizations on cool, innovative, and impactful projects. If you’re working on something that aligns with my skills and passions, let’s connect!  
+ Technologies I’m Learning 📚  
+Software:  
+Python, R, AWS (Amazon Web Services), Microsoft 365, 
+
+Front-end:  
+Data Visualization (Tableau, Power BI), JavaScript (beginner), HTML/CSS (beginner)  
+
+Back-end:  
+SQL, MongoDB, Docker  
+
+Editors and Operating Systems:  
+VS Code, Jupyter Notebook, Windows, Linux  
+
+---
+
+ What I’m Looking For  
+I’m seeking opportunities to apply my nutrition expertise and tech skills in roles that focus on:  
+- Data Analytics & Cloud Solutions for public health and nutrition programs.  
+- AI/ML-driven projects for food security and malnutrition risk prediction.  
+- Tech-enhanced program design and implementation in low-resource settings.  
+
+I’m also open to volunteering for open-source projects or initiatives that aim to improve global health outcomes through technology.  
+
+---
+
+ Let’s Connect!  
